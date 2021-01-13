@@ -1,0 +1,28 @@
+{
+  "name": "bookSearch",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rolara57/BookSearch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rolara57/BookSearch/issues"
+  },
+  "homepage": "https://github.com/rolara57/BookSearch#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "mongoose": "^5.11.11",
+    "path": "^0.12.7",
+    "react": "^17.0.1",
+    "react-router-dom": "^5.2.0"
+  }
+}
