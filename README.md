@@ -3,4 +3,4 @@
 # Motive
 A React-based Google Books Search app that utilize React lifecycle methods to query and display books based on user searches.
 
-![Screen Shot 2021-01-14 at 11 06 54 AM](https://user-images.githubusercontent.com/60681276/104636327-ce243900-5668-11eb-92c2-0bc51554f203.png)
+<img width="519" alt="Screen Shot 2021-01-14 at 1 02 18 PM" src="https://user-images.githubusercontent.com/60681276/104636466-062b7c00-5669-11eb-916a-0696cab371c7.png">
