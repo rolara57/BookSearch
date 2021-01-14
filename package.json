@@ -1,5 +1,5 @@
 {
-  "name": "bookSearch",
+  "name": "BOOKSEARCH",
   "version": "1.0.0",
   "description": "test",
   "main": "server.js",
@@ -20,7 +20,12 @@
   "homepage": "https://github.com/rolara57/BookSearch#readme",
   "dependencies": {
     "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "if-env": "^1.0.4",
+    "mongodb": "^3.6.3",
     "mongoose": "^5.11.11",
+    "node": "^15.4.0",
     "path": "^0.12.7",
     "react": "^17.0.1",
     "react-router-dom": "^5.2.0"
